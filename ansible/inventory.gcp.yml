@@ -1,0 +1,8 @@
+plugin: gcp_compute
+projects:
+  - project-kot-001
+zones:
+  - "europe-west3-a"
+filters: []
+auth_kind: serviceaccount
+service_account_file: "/home/kot/Devoops/cource/cource/ansible/project-kot-001-key.json"

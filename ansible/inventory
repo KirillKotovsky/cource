@@ -1,0 +1,1 @@
+appserver ansible_host=34.107.84.47 ansible_user=appuser ansible_private_key_file=/home/kot/.ssh/appuser
