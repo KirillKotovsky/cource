@@ -1,0 +1,1 @@
+private_key_path = "/home/kot/.ssh/appuser"

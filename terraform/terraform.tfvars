@@ -1,6 +1,0 @@
-project          = "project-kot-001"
-public_key_path  = "/home/kot/.ssh/appuser.pub"
-disk_image       = "reddit-base"
-region           = "europe-west3"
-private_key_path = "/home/kot/.ssh/appuser"
-zone             = "europe-west3-a"
